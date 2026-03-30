@@ -43,7 +43,7 @@ export default function GamaCarvoesSite() {
         </p>
 
         <a
-          href={`https://wa.me/${whatsappNumber}?text=${whatsappMessage}`}
+          href=href="https://wa.me/5511992709773?text=Olá, quero comprar carvão premium GAMA"
           style={{
             display: 'inline-block',
             marginTop: '30px',
@@ -55,7 +55,7 @@ export default function GamaCarvoesSite() {
             textDecoration: 'none',
           }}
         >
-          PEDIR ORÇAMENTO AGORA
+          CLIQUE PARA ORÇAMENTO RAPIDO
         </a>
       </section>
 
