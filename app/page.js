@@ -1,6 +1,6 @@
 export default function GamaCarvoesSite() {
   const whatsappNumber = '5511992709773';
-  const whatsappMessage = encodeURIComponent('Olá! Vim pelo site da GAMA e quero um orçamento.');
+  const whatsappMessage = encodeURIComponent('Olá! Vim pelo site da GAMA Carvões e quero um orçamento.');
 
   const products = [
     {
